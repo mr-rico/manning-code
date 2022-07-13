@@ -1,2 +1,2 @@
-namespace = "my-cool-project"
-region    = "us-west-2"
+namespace = "rrandall"
+region    = "us-gov-west-1"
